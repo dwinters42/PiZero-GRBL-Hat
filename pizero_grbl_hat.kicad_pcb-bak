@@ -1723,8 +1723,8 @@
       (net 47 "Net-(A2-Pad12)"))
   )
 
-  (gr_text "GRBL Hat rev0\n(c) 2019 Daniel Winters\ndaniel@tydirium.org" (at 118.746 110.824) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  (gr_text "GRBL Hat rev0\n(c) 2019 Daniel Winters\ndaniel@tydirium.org" (at 127.636 110.57) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "Board dimensions are on Cmts (Comments) layer. \nDeselect it in Layers Manager to make them invisible.\n\nGPIO connector nets are not connected, these will get \nupdated as per your schematic/netlist." (at 120.524 139.272) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
