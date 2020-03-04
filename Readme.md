@@ -121,3 +121,9 @@ questions.
 | U1    | 1   | uC TQFP-32       | ATmega328P-AU       | Microchip    | 556-ATMEGA328P-AU | 1.81  |
 | Y1    | 1   | 16MHz ABM3       | ABM3-16.000MHZ-B2-T | Abracon      | 815-ABM3-16-D2Y-T | 0.468 |
 |-------|-----|------------------|---------------------|--------------|-------------------|-------|
+
+# Todo for next revision
+
+- add comment about 32 microsteps on schematics
+- use less pins on the Raspi connector + cutout in PCB
+- add missing mouser part numbers in BOM
