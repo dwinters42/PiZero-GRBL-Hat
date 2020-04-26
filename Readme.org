@@ -1,5 +1,7 @@
 #+TITLE:  Pi Zero GRBL hat
 
+[[file:documentation/Board.png]]
+
 This is a RaspberryPi Zero-compatible add-on board that can be used to
 control up to 2 stepper motors using GCode commands. The board works
 with the non-Wifi (Pi Zero) and the Wifi version (Pi Zero W). It
@@ -129,3 +131,4 @@ Look at the [[https://github.com/gnea/grbl/wiki][GRBL wiki]] for any GRBL relate
 * Todos for next revision
 
 - [ ] use less pins on the Raspi connector + cutout in PCB
+- [ ] add photos of the finished board
