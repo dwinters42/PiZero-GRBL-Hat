@@ -5,9 +5,9 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Zero GRBL Hat"
-Date "2019-11-19"
+Date "2020-04-26"
 Rev "1.0"
-Comp "Daniel Winters"
+Comp "Daniel Winters <daniel@tydirium.org>"
 Comment1 "MIT License"
 Comment2 ""
 Comment3 ""
@@ -1165,4 +1165,8 @@ F 3 "" H 9050 1700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9050 1600 9050 1700
+Text Notes 5600 3500 0    50   ~ 0
+Pololu module is hard-wired\nto 32 micro-steps!
+Text Notes 8050 3500 0    50   ~ 0
+Pololu module is hard-wired\nto 32 micro-steps!
 $EndSCHEMATC

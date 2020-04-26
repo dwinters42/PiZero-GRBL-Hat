@@ -128,5 +128,4 @@ Look at the [[https://github.com/gnea/grbl/wiki][GRBL wiki]] for any GRBL relate
 
 * Todos for next revision
 
-- [ ] add comment about 32 microsteps on schematics
 - [ ] use less pins on the Raspi connector + cutout in PCB
