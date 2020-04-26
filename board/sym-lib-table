@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name pizero_grbl_hat-rescue)(type Legacy)(uri ${KIPRJMOD}/pizero_grbl_hat-rescue.lib)(options "")(descr ""))
 )

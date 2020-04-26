@@ -380,7 +380,7 @@ F 3 "" H 2150 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L pizero_grbl_hat-rescue:ATmega328P-AU-MCU_Microchip_ATmega U1
+L MCU_Microchip_ATmega:ATmega328P-AU U1
 U 1 1 5DD68213
 P 2150 2900
 F 0 "U1" H 1950 1400 50  0000 C CNN
